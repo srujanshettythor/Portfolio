@@ -557,6 +557,38 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   width: 100%;
 }
 
+.certificate {
+  padding: 60px 0;
+  background: black;
+}
+.cert-imgbx {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  margin-bottom: 30px;
+  padding: 20px;
+  transition: transform 0.2s ease-in-out;
+}
+.cert-imgbx:hover {
+  transform: translateY(-10px);
+}
+.cert-txtx {
+  margin-top: 15px;
+}
+.cert-txtx h4 {
+  margin-bottom: 10px;
+  font-size: 18px;
+  color: #333;
+}
+.cert-txtx span {
+  font-size: 14px;
+  color: #777;
+}
+
+
+
+
 /************ Footer Css ************/
 .footer {
   padding: 0 0 50px 0;

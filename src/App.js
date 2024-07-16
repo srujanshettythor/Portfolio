@@ -8,6 +8,7 @@ import { Myfooter } from "./components/Foot";
 import { Mynavbar } from "./components/Nav";
 import { Myprojects } from "./components/Proj";
 import { Myskills } from "./components/Skill";
+import { MyCertificates } from "./components/Mycertificate";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Mybanner />
       <Myskills />
       <Myprojects />
+      <MyCertificates />
       <Mycontact />
       <Myfooter />
     </div>
