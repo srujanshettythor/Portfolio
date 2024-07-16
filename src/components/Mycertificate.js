@@ -34,6 +34,14 @@ export const MyCertificates = () => {
       title: "Play It Safe: Manage Security Risks",
       link: "https://coursera.org/share/1a07f9f6f038a32a0aff291b95728b72",
     },
+    {
+      title: "Mastercard's Cybersecurity Job Simulation on Forage",
+      link: "https://www.linkedin.com/feed/update/urn:li:activity:7212692223291736065/",
+    },
+    {
+      title: "Data Analytics And Visualization by Accenture",
+      link: "https://www.linkedin.com/feed/update/urn:li:activity:7218802246434623490/",
+    },
   ];
 
   return (
