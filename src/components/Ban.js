@@ -4,7 +4,7 @@ import headerImg from "../assets/img/header-img.svg";
 import { ArrowRightCircle } from "react-bootstrap-icons";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
-import Myprof from "../assets/img/headder.jpg";
+import Myprof from "../assets/img/sajjupic.png";
 
 export const Mybanner = () => {
   const [loopNum, setLoopNum] = useState(0);
