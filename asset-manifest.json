@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.7cee60eb.css",
+    "main.css": "/Portfolio/static/css/main.f932514b.css",
     "main.js": "/Portfolio/static/js/main.4c95dd9f.js",
     "static/js/453.41811d64.chunk.js": "/Portfolio/static/js/453.41811d64.chunk.js",
+    "static/media/back.jpg": "/Portfolio/static/media/back.685296bfafdb21fc8cb9.jpg",
     "static/media/sri.png": "/Portfolio/static/media/sri.cf2115d905eed43533d2.png",
     "static/media/agro.png": "/Portfolio/static/media/agro.3c986e68db4c2219941b.png",
     "static/media/color-sharp.png": "/Portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/Portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/sajjupic.png": "/Portfolio/static/media/sajjupic.f33ffdbf087058762bf6.png",
-    "static/media/banner-bg.png": "/Portfolio/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/header-img.svg": "/Portfolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
     "static/media/stockprediction.png": "/Portfolio/static/media/stockprediction.d9519735b0962f015f0a.png",
     "static/media/expensive.png": "/Portfolio/static/media/expensive.8b34ce2471f5b09e84f5.png",
@@ -37,12 +37,12 @@
     "index.html": "/Portfolio/index.html",
     "static/media/nav-icon1.svg": "/Portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/Portfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.7cee60eb.css.map": "/Portfolio/static/css/main.7cee60eb.css.map",
+    "main.f932514b.css.map": "/Portfolio/static/css/main.f932514b.css.map",
     "main.4c95dd9f.js.map": "/Portfolio/static/js/main.4c95dd9f.js.map",
     "453.41811d64.chunk.js.map": "/Portfolio/static/js/453.41811d64.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7cee60eb.css",
+    "static/css/main.f932514b.css",
     "static/js/main.4c95dd9f.js"
   ]
 }
